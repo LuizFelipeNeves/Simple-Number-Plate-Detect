@@ -1,0 +1,4 @@
+Django==1.10.5
+Pillow==4.0.0
+opencv-python==4.2.0.32
+numpy==1.16.6
